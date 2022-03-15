@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import HomePage from './components/Home.component';
-import './components/Home.styles.scss';
+import HomePage from './Pages/Homepage/Home.component';
+import './Pages/Homepage/Home.styles.scss';
 
 function App() {
   return (
