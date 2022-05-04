@@ -2,8 +2,9 @@ import styled from 'styled-components';
 
 export const SignInContainer = styled.div`
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
   width: 430px;
+
   h2 {
     margin: 10px 0;
   }
